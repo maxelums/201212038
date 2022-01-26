@@ -1,0 +1,23 @@
+body {
+    background-image: url(images/henry-co--odUkx8C2gg-unsplash.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+h1 {
+    color: black;
+    font-size: 50px;
+    transition-duration: 0.8s;
+    text-align: center;
+}
+h1:hover {
+    color: blue;
+}
+p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    font-size: 20px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 100px;
+}
